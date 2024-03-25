@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea2.3</string>
+    <string name="description">Descripción</string>
+    <string name="tomarFoto">Tomar foto</string>
+    <string name="save">Guardar</string>
+    <string name="list">Ver lista</string>
+    <string name="id">Id</string>
+    <string name="lista">Lista</string>
+</resources>
